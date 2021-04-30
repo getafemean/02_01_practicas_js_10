@@ -10,6 +10,7 @@ export class Fecha {
         'Julio',
         'Agosto',
         'Septiembre',
+        'Octubre',
         'Noviembre',
         'Diciembre'
     ]
